@@ -1,0 +1,14 @@
+body{
+    width: 90%;
+    margin: auto ;
+    background-image: url(../imagens/imagende\ fundo\ home2.jpg);
+    background-repeat: no-repeat;
+    background-size: center;
+    front-family: sans-serif;
+    line-height: 1.5;
+    
+}
+main{
+    background-color:#f3a80059;
+}
+
